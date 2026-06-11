@@ -4,13 +4,13 @@ export default function Projects() {
   const projectList = [
     {
       title: "Al-Quran Digital",
-      // Deskripsi diubah agar sesuai dengan proyek Al-Quran yang responsif dan fungsional
+      
       desc: "Aplikasi Al-Quran digital berbasis web yang dilengkapi dengan fitur pencarian surah, pemutar audio per ayat, dan teks terjemahan bahasa Indonesia.",
       tech: ["React", "Vite"],
       
-      // 1. LINK PROYEK 1
+      
       github: "https://github.com/mugni-labiib/al-quran", 
-      demo: "https://fascinating-kheer-4e9980.netlify.app" // <-- SUDAH DITAMBAHKAN HTTPS:// AGAR BISA DIKLIK DENGAN BENAR
+      demo: "https://fascinating-kheer-4e9980.netlify.app" 
     },
   ];
 

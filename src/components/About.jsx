@@ -31,13 +31,13 @@ export default function About() {
             </div>
           </div>
           
-          {/* TEMPAT FOTO ANDA TAMPIL */}
+        
           <div className="flex justify-center">
             <div className="relative group">
-              {/* Efek gradasi warna di belakang foto */}
+              
               <div className="absolute -inset-1 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-2xl blur opacity-30 group-hover:opacity-50 transition duration-300"></div>
               
-              {/* Bingkai tempat foto profil */}
+              
               <div className="relative w-48 h-48 rounded-2xl bg-slate-700 overflow-hidden border border-slate-600 flex items-center justify-center">
                 <img 
                   src={FotoSaya} 

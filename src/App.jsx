@@ -5,6 +5,7 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 
+
 export default function App() {
   return (
     <div className="bg-slate-900 text-slate-100 font-sans antialiased min-h-screen scroll-smooth">
